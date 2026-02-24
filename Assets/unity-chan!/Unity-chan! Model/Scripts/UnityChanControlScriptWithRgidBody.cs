@@ -13,7 +13,7 @@ namespace UnityChan
 	[RequireComponent(typeof(CapsuleCollider))]
 	[RequireComponent(typeof(Rigidbody))]
 
-	public class UnityChanControlScriptWithRgidBody : MonoBehaviour
+    public class UnityChanControlScriptWithRgidBody : MonoBehaviour
 	{
 
 		public float animSpeed = 1.5f;				// アニメーション再生速度設定
@@ -30,9 +30,20 @@ namespace UnityChan
 		// 旋回速度
 		public float rotateSpeed = 2.0f;
 		// ジャンプ威力
-		public float jumpPower = 3.0f; 
-		// キャラクターコントローラ（カプセルコライダ）の参照
-		private CapsuleCollider col;
+		public float jumpPower = 3.0f;
+
+
+        //FIELD FOR SLIDER SPEED FOR MIDTERM:
+        // persisted speed settings from slider script
+        [SerializeField] private string prefsKey = "PlayerMoveSpeed";
+
+        // copy of the original speeds to scale consistently
+        private float defaultForwardSpeed;
+        private float defaultBackwardSpeed;
+
+
+        // キャラクターコントローラ（カプセルコライダ）の参照
+        private CapsuleCollider col;
 		private Rigidbody rb;
 		// キャラクターコントローラ（カプセルコライダ）の移動量
 		private Vector3 velocity;
@@ -63,11 +74,38 @@ namespace UnityChan
 			// CapsuleColliderコンポーネントのHeight、Centerの初期値を保存する
 			orgColHight = col.height;
 			orgVectColCenter = col.center;
-		}
-	
-	
-		// 以下、メイン処理.リジッドボディと絡めるので、FixedUpdate内で処理を行う.
-		void FixedUpdate ()
+
+
+            // --- MIDTERM: Cache default movement speeds for scaling ---
+            defaultForwardSpeed = forwardSpeed;     
+            defaultBackwardSpeed = backwardSpeed;
+
+
+            // --- MIDTERM: Load saved speed and apply ---
+            ApplySpeedFromPrefs();
+
+        }
+
+        // --- MIDTERM: Reads PlayerPrefs and applies to forward/backward speeds ---
+        private void ApplySpeedFromPrefs()
+        {
+            // Read saved forward movement speed; if not present, fall back to the current forwardSpeed
+            float savedForward = PlayerPrefs.GetFloat(prefsKey, defaultForwardSpeed);
+
+
+            // Scale factor relative to the original default forward speed
+            float scale = (defaultForwardSpeed > 0f) ? (savedForward / defaultForwardSpeed) : 1f;
+
+            // keep the original ratio between forward & backward speeds
+            forwardSpeed = defaultForwardSpeed * scale;
+            backwardSpeed = defaultBackwardSpeed * scale;
+
+            // rotateSpeed and jumpPower are left unchanged (for now lol)
+        }
+
+
+        // 以下、メイン処理.リジッドボディと絡めるので、FixedUpdate内で処理を行う.
+        void FixedUpdate ()
 		{
 			float h = Input.GetAxis ("Horizontal");				// 入力デバイスの水平軸をhで定義
 			float v = Input.GetAxis ("Vertical");				// 入力デバイスの垂直軸をvで定義
