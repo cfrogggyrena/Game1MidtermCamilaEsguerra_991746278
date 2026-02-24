@@ -33,6 +33,7 @@ public class GameManager : MonoBehaviour
     private float elapsed;
     private int score;
     private bool running;
+    private bool sessionCompleted;
 
     private const string LEADERBOARD_KEY = "LEADERBOARD_RECENT3";
     private LeaderboardData leaderboard = new LeaderboardData();
@@ -103,14 +104,6 @@ public class GameManager : MonoBehaviour
         ResetSession();
         StartSession();
         UpdateUI();
-    }
-
-    public void ResetSession()
-    {
-        timeLeft = Mathf.Max(1, maxTimeSeconds);
-        elapsed = 0f;
-        score = 0;
-        running = false;
     }
 
     private void UpdateUI()
@@ -208,4 +201,36 @@ public class GameManager : MonoBehaviour
         PlayerPrefs.DeleteKey(LEADERBOARD_KEY);
         UpdateUI();
     }
+
+
+    //GAME END AND START IN UI
+
+    public void StartSessionFromStartZone()
+    {
+        if (sessionCompleted) return;
+        ResetSession();
+        StartSession();
+        UpdateUI();
+    }
+
+    public void EndSessionByGoal()
+    {
+        if (sessionCompleted) return;
+        sessionCompleted = true;
+
+        // We’re done: save this run as a completed/win state.
+        // If you want to differentiate, you could add a field "won" to LeaderboardEntry.
+        EndSession(); // This will save to recent-3 via SaveCurrentRun()
+    }
+
+    // Make sure ResetSession() clears the guard:
+    public void ResetSession()
+    {
+        timeLeft = Mathf.Max(1, maxTimeSeconds);
+        elapsed = 0f;
+        score = 0;
+        running = false;
+        sessionCompleted = false;
+    }
+
 }

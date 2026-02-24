@@ -14,13 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
   m_GroupName: Localization-String-Tables-Filipino (Philippines) (fil-PH)
   m_GUID: 9e990469a9dbf477a8aaa808724bc44e
-  m_SerializeEntries:
-  - m_GUID: 76057499cf45244b5938e8525fd84574
-    m_Address: Main Menu_fil-PH
-    m_ReadOnly: 1
-    m_SerializedLabels:
-    - Locale-fil-PH
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: a83ab185d28ec4592ad6bd151820d219, type: 2}
   m_SchemaSet:
