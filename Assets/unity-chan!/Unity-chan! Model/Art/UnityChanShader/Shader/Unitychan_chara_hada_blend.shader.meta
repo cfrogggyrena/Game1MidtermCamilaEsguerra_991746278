@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 7a95784c68f03494d8c7911e15fab82a
-ShaderImporter:
-  defaultTextures: []
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0b377d1655e80580a945443afaad9df2d1c7d3b3d500b71100af1d8e744656e
+size 400

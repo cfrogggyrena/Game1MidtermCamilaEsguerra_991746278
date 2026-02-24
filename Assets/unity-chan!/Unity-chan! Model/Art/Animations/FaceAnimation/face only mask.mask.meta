@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: c6893d99d338240cd834967aa6448379
-labels:
-- UnityChan
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/face
-    only mask.mask
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f15012e0349308b9004812cb947f6c29dfb8e6fa6eb09495c6ba5903a622dd9
+size 396

@@ -1,21 +1,3 @@
-fileFormatVersion: 2
-guid: 3deb866dbf36e4efe9965737be6dd558
-TrueTypeFontImporter:
-  externalObjects: {}
-  serializedVersion: 4
-  fontSize: 16
-  forceTextureCase: -2
-  characterSpacing: 0
-  characterPadding: 1
-  includeFontData: 1
-  fontNames:
-  - Game Paused DEMO
-  fallbackFontReferences: []
-  customCharacters: 
-  fontRenderingMode: 0
-  ascentCalculationMode: 1
-  useLegacyBoundsCalculation: 0
-  shouldRoundAdvanceValue: 1
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:250873cc8d10d33f20fb49c14b2492ede8eb3dc277ac6f80f857136cb76a4229
+size 481

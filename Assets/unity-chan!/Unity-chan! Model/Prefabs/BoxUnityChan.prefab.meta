@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 6788413dff62c534d8ca610faef3c7a2
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Prefabs/BoxUnityChan.prefab
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c5f6225946f01f225ad76faaa5c93c6c25bbdff4029018ac777b4a1fbe339f3
+size 351

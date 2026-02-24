@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: bb570020a8c3bad4bbf803af20e78937
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/Materials/body.mat
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:3491f2a6fe37d3691910578a43d02a1fa5a676b83b13050ded2371780838a062
+size 346

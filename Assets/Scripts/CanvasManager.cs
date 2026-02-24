@@ -38,6 +38,14 @@ public class CanvasManager : MonoBehaviour
         SceneManager.LoadScene(1);
     }
 
+
+    //GO HOME BUTTON
+
+    public void homeButton()
+    {
+        SceneManager.LoadScene(0);
+    }
+
     //EXIT GAME BUTTON
     public void exitGameButton()
     {

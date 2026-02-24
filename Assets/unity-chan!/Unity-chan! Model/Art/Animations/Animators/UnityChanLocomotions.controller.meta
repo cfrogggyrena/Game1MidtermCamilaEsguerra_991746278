@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 8d5a0e0d58f4e4176a844a1a03976c19
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/Animators/UnityChanLocomotions.controller
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bbb839242d0ed306a52b54f4e623248ed32290a8d301d860b182e25444d58d7
+size 380

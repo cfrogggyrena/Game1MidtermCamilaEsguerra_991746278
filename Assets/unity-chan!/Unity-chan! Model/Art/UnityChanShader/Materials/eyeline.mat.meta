@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 7bac98231102243919a4534a06cc74ba
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Materials/eyeline.mat
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:09c22f5d204f953b668a0e1d4b52b51616cd369e74a8946c7c2526f1d97d56e6
+size 365

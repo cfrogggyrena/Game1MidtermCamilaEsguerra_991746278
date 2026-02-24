@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 98e9eccf54dd0e34c9cb77865555483f
-DefaultImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/CharaOutline.cg
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:19951550c44cf4aabf035b4ef9289a0d8c4f87eb46e1210da858d6f24c511cd0
+size 361

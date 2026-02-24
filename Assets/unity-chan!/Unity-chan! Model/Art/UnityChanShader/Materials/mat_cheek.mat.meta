@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 4efe8cdcc7b554591bde513d7bde06d0
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Materials/mat_cheek.mat
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4a0c6393678bb605f4186a9ff9a394986c9a8265eca7027bcfb5e613cff6e12
+size 367

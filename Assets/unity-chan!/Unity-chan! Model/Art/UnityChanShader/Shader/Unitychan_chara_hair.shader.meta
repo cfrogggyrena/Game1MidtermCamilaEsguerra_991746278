@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: fe3954a9664afb042a2af588b53680b0
-ShaderImporter:
-  defaultTextures: []
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_hair.shader
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:39359e198afbd96f886e20f60e73907dc06e3fed5c6fc395b3765622dff796ca
+size 394

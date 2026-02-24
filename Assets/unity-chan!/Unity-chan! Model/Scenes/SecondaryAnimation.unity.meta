@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 303d6058a98f643abb202d652ad2be31
-DefaultImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Scenes/SecondaryAnimation.unity
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:a46c74d5a9a9d1fd4c17eb480459b066cbcd984d00817b2bcf4e27f312c38255
+size 350

@@ -1,27 +1,3 @@
-fileFormatVersion: 2
-guid: 90fb476136a614e08a9ad03ad6bbf164
-AudioImporter:
-  serializedVersion: 6
-  defaultSettings:
-    loadType: 1
-    sampleRateSetting: 0
-    sampleRateOverride: 0
-    compressionFormat: 0
-    quality: 1
-    conversionMode: 0
-  platformSettingOverrides: {}
-  forceToMono: 0
-  normalize: 1
-  preloadAudioData: 1
-  loadInBackground: 0
-  3D: 1
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Audio/Voice/univ1178.wav
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:62b7906127caf949c134e78b76671110a06054dacffcddd6448c4376a06f22ff
+size 627

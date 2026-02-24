@@ -1,17 +1,3 @@
-fileFormatVersion: 2
-guid: 0a6149a22cf8a47a192a60b00b3becb3
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Scripts/AutoBlink.cs
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c0d48d40315367bd37ef7f9cfa72b2ecadbd3c86902b16beff9d095809ee8c7
+size 427

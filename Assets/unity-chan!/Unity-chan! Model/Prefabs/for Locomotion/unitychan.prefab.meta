@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 40046bae76ac54bffb59f14f47d9ba1b
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/unitychan.prefab
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:60fd986a9195d4cc9de7ead8caa26679a770de2320f4ad7adada94cafc55e93f
+size 363

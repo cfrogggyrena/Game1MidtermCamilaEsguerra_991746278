@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 9627902a73805264c818754ecb22c8f9
-ShaderImporter:
-  defaultTextures: []
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:43c9cd33153f94f4b33762871520becd6894df3c594022dd590b5e223e72f6fd
+size 403

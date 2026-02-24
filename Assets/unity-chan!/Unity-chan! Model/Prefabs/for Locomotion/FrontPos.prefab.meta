@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 5ab36471a20d548e1b89d3501e011ada
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/FrontPos.prefab
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3c0444a25c57f080198867a2b7b00481ac4f3f32ff466f921167d886c073c22
+size 362

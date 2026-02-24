@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: bf944057124b80b4e84496139e3b072c
-ShaderImporter:
-  defaultTextures: []
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:61c44b1ee77499df9932c913052294ef51a7b7e93130656cfdc53668f4edc75b
+size 399

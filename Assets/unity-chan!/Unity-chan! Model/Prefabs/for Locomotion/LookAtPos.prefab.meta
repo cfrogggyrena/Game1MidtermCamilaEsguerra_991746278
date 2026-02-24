@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: efaf5c7817edc41d68744ffe3a3dbeb7
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/LookAtPos.prefab
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:774f823bc42d69b961357bf13b4fe59f6d4928dc52cdea8cf37d1808c738b836
+size 363

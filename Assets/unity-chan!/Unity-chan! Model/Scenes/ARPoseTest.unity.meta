@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: dc19d125674d55e4395fbb75f6d6f855
-DefaultImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Scenes/ARPoseTest.unity
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc734320b933af30690ffed5d501de15d17650218faf72db7e61cce45c80c0a4
+size 342

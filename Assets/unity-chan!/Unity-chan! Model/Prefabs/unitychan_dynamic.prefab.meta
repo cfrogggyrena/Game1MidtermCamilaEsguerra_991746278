@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 49f2055d53eeb4e5a92af590a44bddee
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Prefabs/unitychan_dynamic.prefab
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ccb262a173ee3327281559635eabfd82b4a1c7a74bfe12a60668d710aa3dc0f
+size 356

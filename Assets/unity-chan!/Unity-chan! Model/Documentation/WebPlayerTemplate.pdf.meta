@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: f0926b9bbecd94bda8b68e0c738a4526
-DefaultImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Documentation/WebPlayerTemplate.pdf
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1015443269817ce588bb929a2a8cc64e0eed3020e72007c8d8a2f13e2f4bcf9
+size 354

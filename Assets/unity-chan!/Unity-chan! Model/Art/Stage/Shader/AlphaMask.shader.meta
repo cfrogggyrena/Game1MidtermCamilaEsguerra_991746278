@@ -1,16 +1,3 @@
-fileFormatVersion: 2
-guid: 9da2031a78926d0489f6bdcbf31ffa53
-ShaderImporter:
-  defaultTextures:
-  - _MainTex: {instanceID: 0}
-  - _AlphaMask: {fileID: 2800000, guid: b6944b8ec29ad124c9ebbe7b111fdfd5, type: 3}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/Stage/Shader/AlphaMask.shader
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc86b8d55da7e6f4bc458e717725cf26ac2ce9a66d0a3379193aa8b65f052eb0
+size 483
