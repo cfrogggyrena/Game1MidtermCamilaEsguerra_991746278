@@ -116,7 +116,7 @@ public class GameManager : MonoBehaviour
     private string BuildStatusText()
     {
         System.Text.StringBuilder sb = new System.Text.StringBuilder();
-        sb.AppendLine("<b>Status</b>");
+        sb.AppendLine("<b>Status:</b>");
 
         if (leaderboard.entries.Count == 0)
         {
