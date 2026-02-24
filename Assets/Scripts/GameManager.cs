@@ -41,7 +41,7 @@ public class GameManager : MonoBehaviour
     {
         get
         {
-            // Pull from UserSession; fallback to "Player" if missing
+            // Pulls from UserSession
             if (UserSession.Instance != null && !string.IsNullOrWhiteSpace(UserSession.Instance.Username))
                 return UserSession.Instance.Username.Trim();
             return "Player";
@@ -95,8 +95,7 @@ public class GameManager : MonoBehaviour
         SaveCurrentRun(); // store into recent-3 list
         UpdateUI();
 
-        // You can show a Game Over panel here, or auto-restart after a delay if you want.
-        // Example: Invoke(nameof(RestartSession), 2f);
+        
     }
 
     public void RestartSession()
@@ -116,8 +115,8 @@ public class GameManager : MonoBehaviour
 
     private void UpdateUI()
     {
-        if (timeText != null) timeText.text = $"Time: {Mathf.CeilToInt(timeLeft)}s";
-        if (scoreText != null) scoreText.text = $"Score: {score}";
+        if (timeText != null) timeText.text = $"{Mathf.CeilToInt(timeLeft)}";
+        if (scoreText != null) scoreText.text = $"{score}";
         if (statusText != null) statusText.text = BuildStatusText();
     }
 
