@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 63e0f32bd11fb46728b21e4d3925aa34
-DefaultImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Documentation/unitychan_dynamic.pdf
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:76e2db85873fef3e6cb7aeb1843ee82a8f3f6a179f726ec8b01cbe76253cebf0
+size 354

@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 96d05de60c5f7474491f9f94568cf623
-ShaderImporter:
-  defaultTextures: []
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcb297c1159d43d8735b303796a9cdbd660ba47badda5c90600b7330e402361c
+size 397

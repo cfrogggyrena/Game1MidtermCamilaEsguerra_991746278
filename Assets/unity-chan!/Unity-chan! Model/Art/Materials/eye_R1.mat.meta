@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: a87def7cf3654cc43add52e645fee2ce
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/Materials/eye_R1.mat
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:88fc51d1ebbfb8ac1c27ddc69906babf6f9cca447ede39ebe7feee52a722408a
+size 348

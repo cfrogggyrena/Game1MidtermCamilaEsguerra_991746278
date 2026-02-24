@@ -1,17 +1,3 @@
-fileFormatVersion: 2
-guid: 12ec17992da8868439a50d4b342b7cfd
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Editor/CreateLocatorHere.cs
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a9578f4b10735eb11a6d6e06e5f41199c83c68dc401a230d9296ab2dfd78a97
+size 434

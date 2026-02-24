@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 6d5bff5837eca402492a89073b17c2e6
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Prefabs/LookPos.prefab
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a6f85f99a146270705cec5eb813fa5118906531160f5be159dc57c3126444e7
+size 346

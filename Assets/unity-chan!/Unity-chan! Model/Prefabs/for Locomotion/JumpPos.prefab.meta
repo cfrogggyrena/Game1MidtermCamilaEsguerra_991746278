@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 2801f2532c4364c8696fc1dc3b4c6a1a
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/JumpPos.prefab
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:29f39278facf179e0d6fe145aa707bfa13a3c745fe71e221130dee8f36d7ff46
+size 361

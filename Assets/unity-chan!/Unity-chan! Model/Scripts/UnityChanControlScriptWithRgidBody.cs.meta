@@ -1,17 +1,3 @@
-fileFormatVersion: 2
-guid: 9001bcbd91e76437cb0f52f12764f2f0
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Scripts/UnityChanControlScriptWithRgidBody.cs
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:331f1caea3a7a29720e19e8ceb0f1c2476f792a7f471f599c6c6769d3851e852
+size 452

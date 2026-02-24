@@ -1,17 +1,3 @@
-fileFormatVersion: 2
-guid: 16931e3bbabb00f478bbbe4759af8343
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Scripts/IKCtrlRightHand.cs
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:ada76bf7ca6a111739adf3aa9573edb6e8c58f02c75b6b286128885fbaa467db
+size 433

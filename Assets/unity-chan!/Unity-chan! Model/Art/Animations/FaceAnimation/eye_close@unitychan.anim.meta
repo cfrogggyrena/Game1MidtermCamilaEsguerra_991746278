@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 73cb3ae8fc1de47a0a307cb5f95ec701
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/eye_close@unitychan.anim
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:b045e9c747436f0eea2ba6524520f1bd609424dffddf03fcf59a297fcab4370b
+size 377

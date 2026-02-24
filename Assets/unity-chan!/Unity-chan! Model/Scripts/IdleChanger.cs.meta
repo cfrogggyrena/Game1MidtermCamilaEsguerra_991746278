@@ -1,17 +1,3 @@
-fileFormatVersion: 2
-guid: 058a2736f2afd564eae55007a87eed87
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Scripts/IdleChanger.cs
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6f740eacd8c7c275bb876b9bd0c360df12cdf1deb20272c1335fda108faca49
+size 429

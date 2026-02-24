@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 901d9b98ec9a64ade8f264b6e32c1341
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/smile2@unitychan.anim
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:7762f312d5ec0920d04a2cd5e740592867d86ca288731a347a7ffe1bccaff9c4
+size 374

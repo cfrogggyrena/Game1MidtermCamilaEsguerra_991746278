@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: e793ce9481e314d228f8dbc6a9e8940f
-DefaultImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Documentation/ReadMe/ReadMe_jp.pdf
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4090493bed9194c99a9f19836ab9104eae626f959403cb26b505ffeedc417e5
+size 353

@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 4b91d906c72fd4447bfabbdd767e31ad
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Materials/skin1.mat
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:a18130424035f832e6c6b760af7f24566c2c544e03501df976f8a86f893fa9f4
+size 363

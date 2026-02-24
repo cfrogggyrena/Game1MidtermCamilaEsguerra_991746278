@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 65eb07d65eb184e13a4b388eced0d32b
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Prefabs/for Locomotion/CamPos.prefab
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b59262f5704e552e862adf4ebb13ba22a40d8d0f0698e40c3368a6b8b0109f9
+size 360

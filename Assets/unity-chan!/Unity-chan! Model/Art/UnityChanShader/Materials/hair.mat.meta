@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 0686b679809f14929a8d7f427cbb4da3
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Materials/hair.mat
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:df6eda92b398f2e2e463af7dc4c6904a96c7e2553db37a31d67d564b2bf62e7c
+size 362

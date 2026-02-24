@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 137e63c1f5c81469e99e2220647911ff
-DefaultImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Documentation/unitychan_shader.pdf
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:121a621ef210c684cc09ff8013d158d703463f29754496fadba6adbf0eb29cf8
+size 353

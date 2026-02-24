@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 957eefe92df624143ad9333b8bc01eb8
-DefaultImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Scenes/Locomotion.unity
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:615c163cd36e5316e6c1e7e745cc3a0b9e47e742fff1cd0046e01f3ac485ac8f
+size 342

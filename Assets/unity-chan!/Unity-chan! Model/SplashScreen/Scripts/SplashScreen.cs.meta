@@ -1,17 +1,3 @@
-fileFormatVersion: 2
-guid: 0e2c8af82d98445fd8434457bdfc49db
-MonoImporter:
-  serializedVersion: 2
-  defaultReferences: []
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/SplashScreen/Scripts/SplashScreen.cs
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:244d70de6f768c358bd9e29af6c36e0bc46175d96725896c8e8350561c335684
+size 443

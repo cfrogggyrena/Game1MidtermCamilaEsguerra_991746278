@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 2d64a878e09fc46ce9d3079357ebb3a5
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/conf@unitychan.anim
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e96ab7ff9f38bf008571a91ae0983fabe967890e348a32eca37ffb19f808368
+size 372

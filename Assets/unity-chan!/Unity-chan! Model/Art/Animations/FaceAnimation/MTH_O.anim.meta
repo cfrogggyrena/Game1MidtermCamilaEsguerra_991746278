@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 8564dc45968774e70ad835503fda627e
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/Art/Animations/FaceAnimation/MTH_O.anim
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:3321011ac67198ecc432e8338c3854e9fd97bb49b657b032a2205c6020528a20
+size 363

@@ -1,13 +1,3 @@
-fileFormatVersion: 2
-guid: 4bd5bac4ccdae4f9c85135b8fd7da355
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
-AssetOrigin:
-  serializedVersion: 1
-  productId: 18705
-  packageName: '"Unity-Chan!" Model'
-  packageVersion: 1.2.2
-  assetPath: Assets/unity-chan!/Unity-chan! Model/SplashScreen/Animations/FadeIn.anim
-  uploadId: 374231
+version https://git-lfs.github.com/spec/v1
+oid sha256:b80d007c26384fdfbf53e08228ebd9ec5afecaba32cc8ac1908ee086dd5a2d0d
+size 359
